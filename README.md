@@ -8,7 +8,7 @@ I am currently building my skills in DevOps and Linux system administration thro
 
 ## 🎯 About Me
 
-I am a passionate and growth driven learner with a strong foundation in DevOps. My focus is on understanding how modern systems operate behind the scenes and building practical, scalable, and efficient solutions that help organizations improve software delivery, system reliability, and operational effieciency.
+I am a passionate and growth driven learner with a strong foundation in DevOps. My focus is on understanding how modern systems operate behind the scenes and building practical, scalable, and efficient solutions that help organizations improve software delivery, system reliability, and operational efficiency.
 Currently, i am strengthening my foundation in Linux, cloud infrastructure, and automation tools while building hands-on projects that simulate real DevOps environment.
 
 
