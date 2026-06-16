@@ -8,12 +8,7 @@ I am currently building my skills in DevOps, Linux system administration, and ve
 
 ## 🎯 About Me
 
-- 🌱 Currently learning DevOps fundamentals
-- 🐧 Practicing Linux system administration
-- 🌿 Working with Git & GitHub workflows
-- 🛠️ Building a strong DevOps portfolio through real projects
-- 📈 Focused on becoming industry-ready through continuous practice.
-
+I am a passionate and growth driven learner with a strong foundation in DevOps. My focus is on understanding how modern systems operate behind the scenes and 
 
 
 ## Skills I Am Developing
@@ -48,11 +43,11 @@ To become a skilled DevOps Engineer capable of:
 - Automating deployment processes
 - Managing infrastructure systems
 - Working with cloud platforms
-- Building scalable and efficient systems
+- Building scalable and efficient systems in real-world environments.
 
 
 
 ##  Growth Mindset
 
-I believe in learning through practice, consistency, and solving real problems rather than just theory.
+I believe in learning through practice, consistency, and solving real problems.
 
