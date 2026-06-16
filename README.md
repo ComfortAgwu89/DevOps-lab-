@@ -2,7 +2,7 @@
 
 ## 🚀 Aspiring DevOps Engineer | Linux & Git Practitioner
 
-I am currently building my skills in DevOps, Linux system administration through hands-on practice and real projects.
+I am currently building my skills in DevOps and Linux system administration through hands-on practice and real projects.
 
 
 
