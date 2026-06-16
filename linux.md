@@ -23,3 +23,9 @@ top
 htop
 kill
 killall
+
+## Background Processes
+Run a process in background:
+''''bash
+command &
+
