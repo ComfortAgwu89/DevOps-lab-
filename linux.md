@@ -16,3 +16,10 @@ mv
 r = read
 w = write
 x = execute
+
+## Process Management
+ps
+top
+htop
+kill
+killall
